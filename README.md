@@ -1,16 +1,20 @@
-### Hi there 👋
+## ¡Hola! Soy Diego Aedo Fuenzalida  👋
+### Analista Programador y estudiante de Ingeniería en Informática
 
-<!--
-**diegoaedof/diegoaedof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tecnologías con las que he trabajado
+- Python / Django
+- Java / Springboot
+- Bootstrap, React
+- Git
+- Oracle Database
+- MongoDB
+- MySQL
+- SQLite
+- Android Studio
+- Arduino
+- Linux
 
-Here are some ideas to get you started:
+#### Contáctame:
+- [LinkedIn](https://www.linkedin.com/in/diego-aedo-fuenzalida/)
+- Email: <d.aedo.1108@gmail.com>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
